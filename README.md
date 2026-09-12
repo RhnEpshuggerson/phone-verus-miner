@@ -1,6 +1,10 @@
 # My ccminer setup (Termux on my phone)
 
 ## First time setup
+0.for make it didnt automaticly kill by android
+```
+termux-wake-lock
+```
 
 1. Install Termux (arm64): https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 
