@@ -41,3 +41,4 @@ Stop: `CTRL + c`
 - Turn off battery optimization for Termux
 - `Acquire wakelock` in the Termux notification = mine with screen off (works on some devices only)
 - Hashrate takes ~30 min to 1 h to stabilize
+- use termux-wake-lock
